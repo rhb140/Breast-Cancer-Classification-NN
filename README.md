@@ -151,12 +151,12 @@ plt.show()
 The model's performance is evaluated on the test dataset, measuring **accuracy** and **loss**. Use plt to plot an accuracy and a loss graph.
 
 ### Accuracy Graph
-![Accuracy Graph](https://github.com/rhb140/Breast-Cancer-Classification-NN/blob/main/breastCancerDiagnosisImage5.jpg?raw=true)
+![Accuracy Graph](https://github.com/rhb140/Breast-Cancer-Classification-NN/blob/main/BreastCancer_Diagnosis_Accuracy_Graph.jpg?raw=true)
 
 A plot of training and validation accuracy over epochs.
 
 ### Loss Graph
-![Loss Graph](https://github.com/rhb140/Breast-Cancer-Classification-NN/blob/main/breastCancerDiagnosisImage6.jpg?raw=true)
+![Loss Graph](https://github.com/rhb140/Breast-Cancer-Classification-NN/blob/main/BreastCancer_Diagnosis_Loss_Graph.jpg?raw=true)
 
 A plot of training and validation loss over epochs.
 
